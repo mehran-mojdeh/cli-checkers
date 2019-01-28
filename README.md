@@ -1,2 +1,2 @@
 # cli-checkers
-simple checkers for cli
+simple checkers written in C for cli
